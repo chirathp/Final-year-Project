@@ -1,1 +1,4 @@
-
+🔹 Frontend (Flutter)
+The frontend of the project is developed using Flutter, providing a smooth and responsive cross-platform user interface. 
+It allows users to capture real-time facial expressions via the webcam, view detected emotions, and receive personalized music recommendations. 
+The UI is designed to be simple, user-friendly, and visually engaging, ensuring a seamless experience across devices.
