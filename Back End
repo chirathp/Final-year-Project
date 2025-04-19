@@ -1,4 +1,0 @@
-🔹 Backend (Flask, OpenCV, Torch)
-The backend is powered by Flask, handling API requests between the frontend and core logic. 
-It uses OpenCV to capture and process images from the webcam, while a CNN model trained with Torch performs facial emotion recognition. 
-Based on the detected emotion, the system then recommends songs using a trained music recommendation model(KNN) built from the Spotify dataset, ensuring relevant and emotion-aligned suggestions.
